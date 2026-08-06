@@ -1,5 +1,5 @@
 **🖥️ Context Switching Analyzer**
-A terminal-based Operating System simulation that demonstrates CPU Scheduling and Context Switching using the Round Robin (RR) algorithm.
+A terminal-based Operating System simulation that demonstrates CPU Scheduling and Context Switching using the Round Robin (RR) algorithm. 
 **📌 Overview**
 This project simulates a kernel managing multiple processes with a fixed time quantum, showing how processes move between the Ready Queue and the CPU while avoiding starvation.
 **⚙️ Features**
